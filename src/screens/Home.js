@@ -2,7 +2,6 @@ import { Col, Container, Row, Image, Card, Button } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
-  faLinkedin,
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
 import {
