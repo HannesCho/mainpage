@@ -343,7 +343,7 @@ function Home() {
                     </Card.Text>
                     <Button 
                       variant="primary"
-                      href="https://deliverycal.herokuapp.com/"
+                      href="www.woltcal.hannesstudio.com"
                     >
                       To the site
                     </Button>
