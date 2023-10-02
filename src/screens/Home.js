@@ -343,7 +343,7 @@ function Home() {
                     </Card.Text>
                     <Button 
                       variant="primary"
-                      href="www.woltcal.hannesstudio.com"
+                      href="http://woltcal.hannesstudio.com/"
                     >
                       To the site
                     </Button>
