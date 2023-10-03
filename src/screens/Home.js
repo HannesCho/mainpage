@@ -398,7 +398,7 @@ function Home() {
                     </Card.Text>
                     <Button
                       variant="primary"
-                      href="https://myresapp.herokuapp.com/"
+                      href="http//hrmanager.hannesstudio.com"
                     >
                       To the site
                     </Button>
