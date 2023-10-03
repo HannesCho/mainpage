@@ -376,7 +376,7 @@ function Home() {
                     </Button>
                     <Button className="m-2"
                       variant="primary"
-                      href="https://github.com/HannesCho/HR_Manager"
+                      href="http://hrmanager.hannesstudio.com"
                     >
                       Code
                     </Button>
@@ -398,7 +398,7 @@ function Home() {
                     </Card.Text>
                     <Button
                       variant="primary"
-                      href="http//hrmanager.hannesstudio.com"
+                      href="http://myres.hannesstudio.com"
                     >
                       To the site
                     </Button>
