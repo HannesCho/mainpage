@@ -370,13 +370,13 @@ function Home() {
                     </Card.Text>
                     <Button
                       variant="primary"
-                      href="https://hrmanager-front.herokuapp.com/"
+                      href="http://hrmanager.hannesstudio.com"
                     >
                       To the site
                     </Button>
                     <Button className="m-2"
                       variant="primary"
-                      href="http://hrmanager.hannesstudio.com"
+                      href="https://github.com/HannesCho/HR_Manager"
                     >
                       Code
                     </Button>
